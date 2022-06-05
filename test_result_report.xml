@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuites>
+  <testsuite name="test_advisor_spike" tests="2" failure="1" timestamp="2022-05-09T17:16:26.104Z" skipped="0" failure-evaluating="0">
+    <testcase name="authentication test" classname="testim.io.test" time="14.924" ownedBy="Gautham Vootukuru" ownerEmail="gvootukuru@salesforce.com">
+      <system-out>https://app.testim.io/#/project/bBbAz0fJwNpHkiF8sRRP/branch/master/test/REijPLuJqXo12fvf?result-id=maOiNPfXsSkT2UQR</system-out>
+    </testcase>
+    <testcase name="Copy of authentication test" classname="testim.io.test" time="35.999" ownedBy="Gautham Vootukuru" ownerEmail="gvootukuru@salesforce.com">
+      <failure message="Step Failed: Element not found More info at: https://app.testim.io/#/project/bBbAz0fJwNpHkiF8sRRP/branch/master/test/FqI26MXeADzLCAST?result-id=d6hpQ3Z1YHDgYsQZ"/>
+      <system-out>https://app.testim.io/#/project/bBbAz0fJwNpHkiF8sRRP/branch/master/test/FqI26MXeADzLCAST?result-id=d6hpQ3Z1YHDgYsQZ</system-out>
+    </testcase>
+  </testsuite>
+</testsuites>
